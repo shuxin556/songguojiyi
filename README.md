@@ -19,7 +19,7 @@
 
 
 ## 📱 支持平台
-- [Android 版](https://github.com/shuxin556/songguo-app/releases/download/v1.1.17/songguo-release-1.1.17.apk)（直接安装）
+- [Android 版](https://webapp.skcode.cn/apks/app-latest.apk)（直接安装）
 - [Web 版](https://songguo.skcode.cn/)（在线学习）
 
 
