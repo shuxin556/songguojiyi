@@ -8,6 +8,8 @@
 
 无论你正处于失业求职的迷茫期，急需系统梳理技能、攻克面试考点；还是即将迎来面试，渴望在冲刺阶段查漏补缺、模拟实战；亦或是在职期间希望巩固技术、更新知识储备，松果记忆都能成为你可靠的伙伴。它用科学的方法、智能的工具和温暖的社区，陪伴你走过求职每一步，让你在 IT 职场中披荆斩棘，实现职业理想！
 
+## 📱 产品官网
+了解更多产品内容请见：[松果记忆官网](https://songguo.skcode.cn/)
 
 ## ✨ 核心功能亮点
 - **记忆曲线提醒**：基于艾宾浩斯曲线，自动提醒你复习关键内容，记得更牢。
@@ -24,9 +26,10 @@
 
 
 ## 📸 功能预览
-<img width="30%" style="display: inline-block; margin: 0px 5px;"  src="https://github.com/user-attachments/assets/8ce8c44f-59c6-47c6-b526-937fcf156705" />
-<img width="30%" style="display: inline-block; margin: 0px 5px;"  src="https://github.com/user-attachments/assets/6845f1aa-1f7f-45e3-82ff-b9cd22ab6a01" />
-<img width="30%" style="display: inline-block; margin: 0px 5px;" src="https://github.com/user-attachments/assets/fa2f21ab-6529-47ea-aeb4-a1f89142cacf" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;"  src="https://github.com/shuxin556/songguojiyi/blob/main/01.jpg" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;"  src="https://github.com/shuxin556/songguojiyi/blob/main/02.jpg" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;" src="https://github.com/shuxin556/songguojiyi/blob/main/03.jpg" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;" src="https://github.com/shuxin556/songguojiyi/blob/main/04.jpg" />
 
 
 ## 📝 使用小贴士
