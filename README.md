@@ -26,10 +26,10 @@
 
 
 ## 📸 功能预览
-<img width="22%" style="display: inline-block; margin: 0px 5px;"  src="https://github.com/shuxin556/songguojiyi/blob/main/01.jpg" />
-<img width="22%" style="display: inline-block; margin: 0px 5px;"  src="https://github.com/shuxin556/songguojiyi/blob/main/02.jpg" />
-<img width="22%" style="display: inline-block; margin: 0px 5px;" src="https://github.com/shuxin556/songguojiyi/blob/main/03.jpg" />
-<img width="22%" style="display: inline-block; margin: 0px 5px;" src="https://github.com/shuxin556/songguojiyi/blob/main/04.jpg" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;"  src="/images/01.jpg" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;"  src="/images/02.jpg" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;" src="/images/03.jpg" />
+<img width="22%" style="display: inline-block; margin: 0px 5px;" src="/images/04.jpg" />
 
 
 ## 📝 使用小贴士
