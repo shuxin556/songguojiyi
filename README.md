@@ -9,7 +9,7 @@
 无论你正处于失业求职的迷茫期，急需系统梳理技能、攻克面试考点；还是即将迎来面试，渴望在冲刺阶段查漏补缺、模拟实战；亦或是在职期间希望巩固技术、更新知识储备，松果记忆都能成为你可靠的伙伴。它用科学的方法、智能的工具和温暖的社区，陪伴你走过求职每一步，让你在 IT 职场中披荆斩棘，实现职业理想！
 
 ## 📱 产品官网
-了解更多产品内容请见：[松果记忆官网](https://songguo.skcode.cn/)
+了解更多产品内容请见：[松果记忆官网](https://songguo.songguojiyi.com/)
 
 ## ✨ 核心功能亮点
 - **记忆曲线提醒**：基于艾宾浩斯曲线，自动提醒你复习关键内容，记得更牢。
@@ -21,8 +21,8 @@
 
 
 ## 📱 支持平台
-- [Android 版](https://webapp.skcode.cn/apks/app-latest.apk)（直接安装）
-- [Web 版](https://songguo.skcode.cn/)（在线学习）
+- [Android 版](https://webapp.songguojiyi.com/apks/app-latest.apk)（直接安装）
+- [Web 版](https://songguo.songguojiyi.com/)（在线学习）
 
 
 ## 📸 功能预览
