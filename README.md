@@ -22,7 +22,7 @@
 
 ## 📱 支持平台
 - [Android 版](https://webapp.songguojiyi.com/apks/app-latest.apk)（直接安装）
-- [Web 版](https://songguo.songguojiyi.com/)（在线学习）
+- [Web 版](https://webapp.songguojiyi.com/)（在线学习）
 
 
 ## 📸 功能预览
